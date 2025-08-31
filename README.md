@@ -1,4 +1,4 @@
-# 📚Flashcard Quiz App (React Native)
+# 📚Flashcard Quiz App 
 
 A Flashcard Quiz mobile app built with React Native that helps students and professionals study concepts easily. Users can create, edit, delete, and review flashcards interactively.
 
