@@ -1,11 +1,40 @@
-# Sample Snack app
+# 📚Flashcard Quiz App (React Native)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+A Flashcard Quiz mobile app built with React Native that helps students and professionals study concepts easily. Users can create, edit, delete, and review flashcards interactively.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+# 🚀 Features
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+➕ Add New Flashcards with question & answer
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+✏️ Edit Existing Flashcards
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+❌ Delete Flashcards
+
+🎓 Study Mode
+
+  -Flip between Question and Answer
+
+  -Navigate with Next & Previous buttons
+
+Exit study anytime
+
+💾 Persistent Storage using AsyncStorage
+
+📱 Cross-platform Support (Android & iOS)
+
+⚡ Fast & Offline Ready
+
+# 🛠️ Tech Stack
+
+Framework: React Native
+
+Language: JavaScript (ES6+)
+
+Storage: AsyncStorage (local storage)
+
+# 👩‍💻 Author
+
+ By Sumaira Ramzan
+🌐 www.linkedin.com/in/sumaira-ramzan
+
+⚡ A simple yet powerful flashcard learning app built with React Native.
