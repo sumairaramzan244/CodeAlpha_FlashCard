@@ -34,7 +34,10 @@ Storage: AsyncStorage (local storage)
 
 # 👩‍💻 Author
 
- By Sumaira Ramzan
-🌐 www.linkedin.com/in/sumaira-ramzan
+ By Sumaira Ramzan          
+ 
+🌐LinkedIn :  www.linkedin.com/in/sumaira-ramzan
+
+
 
 ⚡ A simple yet powerful flashcard learning app built with React Native.
