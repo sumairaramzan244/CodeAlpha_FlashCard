@@ -6,7 +6,7 @@ A Flashcard Quiz mobile app built with React Native that helps students and prof
 
 ➕ Add New Flashcards with question & answer
 
-✏️ Edit Existing Flashcards
+✏️ Hide or see the answers
 
 ❌ Delete Flashcards
 
