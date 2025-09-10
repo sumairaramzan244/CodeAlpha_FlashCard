@@ -37,9 +37,8 @@ Storage: AsyncStorage (local storage)
 
  By Sumaira Ramzan As apart of internship in CodeAlpha
 
- GitHub: @sumairaramzan244
- 
-🌐LinkedIn :  www.linkedin.com/in/sumaira-ramzan
+- 🌐 GitHub:https://github.com/sumairaramzan244 
+- 💼 LinkedIn:https://www.linkedin.com/in/sumaira-ramzan 
 
 
 
